@@ -40,7 +40,7 @@ A closed, self-organizing AI companion system that learns only from my inputs, e
 - **Cloud/Deployment:** Railway, Vercel, GitHub, Git
 - **Project Tools:** Asana, Trello, Jira, Notion, ClickUp, HubSpot, Microsoft Office
 - **Data:** JSON processing, Python dechunking APIs, object storage
-- **Other:** Google Apps Script, Gmail automation, VoiceMeeter (audio routing)
+- **Other:** Google Apps Script, Gmail autojmation, VoiceMeeter (audio routing)
 - **Concepts:** Symbolic systems, recursion, prompt engineering, divination, spiritual philosophy
 
 ---
@@ -51,7 +51,7 @@ I flow with the winds but root in stillness. I find meaning in beauty and simpli
 Hephaestus is my favorite Greek god (resilience + craft).  
 "Bro" and "bruh" are for everyone.  
 Guiding principle: **Say less so others can think more.**  
-Birthday: May 18th (like my dad).
+Birthday: July 28th (like my dad).
 
 ---
 
